@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+unitBot-api:
+  groupId:
+  cookie:
+  ApiKey: 8af15122-e555-4f1f-9f79-04879c8dc1c1
